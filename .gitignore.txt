@@ -1,0 +1,12 @@
+# scala-cli / build artefakti
+.scala-build/
+.bsp/
+.bloop/
+.metals/
+
+# kompajlirane klase
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
