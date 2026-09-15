@@ -42,4 +42,4 @@ Ponavljanjem kroz mnogo epoha, nasumične početne težine se postepeno doteruju
 
 ## Autor
 
-[ Ime i prezime, broj indeksa ]
+[ Mihailo Smiljic , 96/2023 ]
